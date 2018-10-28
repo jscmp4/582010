@@ -4,36 +4,12 @@
 	{
 		"root"		"0"
 		"size"		"9438432"
-		"localtime"		"1540712647"
-		"time"		"1540712646"
-		"remotetime"		"1540700138"
-		"sha"		"56394e68d92696c12aaccfdb224464340375f1ba"
-		"syncstate"		"3"
+		"localtime"		"1540721759"
+		"time"		"1540721759"
+		"remotetime"		"1540721759"
+		"sha"		"b5321a28f8dfc4755f458be32098007ef63c1b57"
+		"syncstate"		"1"
 		"persiststate"		"0"
-		"platformstosync2"		"-1"
-	}
-	"slot00"
-	{
-		"root"		"0"
-		"size"		"64552"
-		"localtime"		"1540712647"
-		"time"		"1540712646"
-		"remotetime"		"1540712646"
-		"sha"		"03c6236d2c601ad4f3655fa91ef14bcc82ff2735"
-		"syncstate"		"3"
-		"persiststate"		"2"
-		"platformstosync2"		"-1"
-	}
-	"slot01"
-	{
-		"root"		"0"
-		"size"		"64552"
-		"localtime"		"1540703515"
-		"time"		"1540703515"
-		"remotetime"		"1540703515"
-		"sha"		"df083741d8ebc188427707bd0d4466d8aa029c20"
-		"syncstate"		"3"
-		"persiststate"		"2"
 		"platformstosync2"		"-1"
 	}
 }

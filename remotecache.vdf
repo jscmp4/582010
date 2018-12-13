@@ -4,24 +4,12 @@
 	{
 		"root"		"0"
 		"size"		"9438432"
-		"localtime"		"1542189261"
-		"time"		"1542189280"
-		"remotetime"		"1542042713"
-		"sha"		"fbb4511b9f28b5a4e1a94b8c076fc6125668c192"
-		"syncstate"		"3"
+		"localtime"		"1544648267"
+		"time"		"1544648278"
+		"remotetime"		"1544648278"
+		"sha"		"5227b2e4fbba905c0193e3528b92ef055036a931"
+		"syncstate"		"1"
 		"persiststate"		"0"
-		"platformstosync2"		"-1"
-	}
-	"slot00"
-	{
-		"root"		"0"
-		"size"		"64552"
-		"localtime"		"1542189261"
-		"time"		"1542189280"
-		"remotetime"		"1542189280"
-		"sha"		"6614e481e45086e70147581e462ed65b83f687ee"
-		"syncstate"		"3"
-		"persiststate"		"2"
 		"platformstosync2"		"-1"
 	}
 	"slot01"
@@ -34,6 +22,18 @@
 		"sha"		"0000000000000000000000000000000000000000"
 		"syncstate"		"1"
 		"persiststate"		"2"
+		"platformstosync2"		"-1"
+	}
+	"SAVEDATA_B"
+	{
+		"root"		"0"
+		"size"		"17104"
+		"localtime"		"1542850637"
+		"time"		"1542850639"
+		"remotetime"		"1542850639"
+		"sha"		"93a671a3b3ea79edb044993db7215f386787380e"
+		"syncstate"		"1"
+		"persiststate"		"0"
 		"platformstosync2"		"-1"
 	}
 }
